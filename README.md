@@ -375,7 +375,6 @@ Healthcare Dataset (healthcare_dataset.csv)
 ## 📁 Project Structure
 
 
-```
 ####   HealthCare_Dashboard_PowerBI/
 
 ##### ├── README.md # Project documentation
@@ -393,7 +392,6 @@ Healthcare Dataset (healthcare_dataset.csv)
 ##### │ └── HealthCareDashboard_PatientView.png # Dashboard preview image
 
 
-```
 
 ---
 
