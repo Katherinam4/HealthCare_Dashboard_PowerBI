@@ -1,5 +1,3 @@
-# HealthCare_Dashboard_PowerBI
-
 # Healthcare Analytics Dashboard
 
 ---
